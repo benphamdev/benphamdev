@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Phạm Duy Chiến</h1>
-<h3 align="center">A passionate backend devaeloper from Viet Nam</h3>
+<h3 align="center">A passionate backend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/732330/screenshots/4025801/character.gif" />
 <p align="left">
