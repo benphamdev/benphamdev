@@ -1,6 +1,12 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io) -->
+
+<a href="https://rishavchanda.io">
+    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="MasterHead"
+        style="border-radius: 50%;" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Phạm Duy Chiến</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h3 align="center">A passionate backend devaeloper from Viet Nam</h3>
 <img align="right" alt="Coding" width="400"
     src="https://cdn.dribbble.com/users/732330/screenshots/4025801/character.gif" />
 <p align="left">
@@ -179,7 +185,7 @@
 </p>
 
 <p>
-    <img align="left"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=benphamdev&show_icons=true&locale=en&layout=compact"
         alt="benphamdev" />
 </p>
