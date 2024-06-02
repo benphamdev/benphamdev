@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://dev.to/ben" target="blank"><img align="center"
+    <a href="[https://dev.to/ben](https://www.linkedin.com/in/chi%E1%BA%BFn-ph%E1%BA%A1m-62b93a2a0/)" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="ben" height="30" width="40" /></a>
 </p>
