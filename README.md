@@ -191,7 +191,7 @@
 </p>
 
 <p>
-    &nbsp;<img align="center"
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=benphamdev&show_icons=true&locale=en"
         alt="benphamdev" />
 </p>
