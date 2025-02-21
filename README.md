@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io) -->
 
 <a href="https://rishavchanda.io">
-    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="MasterHead"
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif" alt="MasterHead"
         style="border-radius: 50%;" />
 </a>
 
@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on **BankingApp**
 - 🤝 I’m looking for help with **ReactJS**
 - 💬 Ask me about **Spring Boot, MySql**
-- 📫 How to reach me **phamcien152003@gmail.com**
+- 📫 How to reach me **phamchien152003@gmail.com**
 - ⚡ Fun fact **Funny** ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
