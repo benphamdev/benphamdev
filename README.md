@@ -1,12 +1,14 @@
 <!-- [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io) -->
 
 <a href="https://rishavchanda.io">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif" alt="MasterHead"
+    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" alt="MasterHead"
+        width="100%"
+        height="10%"
         style="border-radius: 50%;" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Phạm Duy Chiến</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h3 align="center">A passionate system engineer from Việt Nam</h3>
 <img align="right" alt="Coding" width="350"
     src="https://cdn.dribbble.com/users/732330/screenshots/4025801/character.gif" />
 <p align="left">
