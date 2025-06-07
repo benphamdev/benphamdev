@@ -23,10 +23,6 @@
 
 <br/>
 
-<div align="right">
-  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/732330/screenshots/4025801/character.gif" />
-</div>
-
 ## 🎯 About Me
 
 <img align="right" alt="coding gif" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
