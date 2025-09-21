@@ -31,7 +31,7 @@
 - 🌱 I'm currently learning **DevOps Skills & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Cybersecurity Projects**
 - 🤝 I'm looking for help with **Advanced DevOps Practices**
-- 💬 Ask me about **Spring Boot, MySQL, System Architecture**
+- 💬 Ask me about **Cloud architecture, System Architecture**
 - 📫 How to reach me: **<phamchien152003@gmail.com>**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
@@ -40,7 +40,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chi%E1%BA%BFn-ph%E1%BA%A1m-62b93a2a0/" target="_blank">
+  <a href="www.linkedin.com/in/chienpham-cloud" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:phamchien152003@gmail.com" target="_blank">
